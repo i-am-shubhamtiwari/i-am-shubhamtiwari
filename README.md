@@ -37,15 +37,13 @@ Currently exploring the intersection of **React + AI agents** — building tools
 
 ### 🚀 Featured Projects
 
-> ⚠️ **Replace the placeholders below with your real projects — this is the most important section.**
+| Project                                     | What it does                                                                                                       | Stack                                                  | Links                                         |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------- |
+| **Agentic AI Voice Calling System**         | Production-grade AI voice calling platform with real-time conversational agents using Twilio + LLM orchestration.  | Python, Node.js, Angular, Twilio, ElevenLabs, Cartesia | [Repo](https://github.com/i-am-shubhamtiwari) |
+| **Lyra — AI Interview Platform**            | AI-powered interview platform for automated candidate screening, dynamic interview flows, and AI-based evaluation. | Angular, Node.js, Tailwind CSS, LLM APIs               | [Repo](https://github.com/i-am-shubhamtiwari) |
+| **Orion — Project Management Tool**         | Jira-integrated project management platform with real-time two-way synchronization using webhooks and REST APIs.   | React, Node.js, Jira REST API, Webhooks                | [Repo](https://github.com/i-am-shubhamtiwari) |
+| **AI Object Removal & 3D Replacement Tool** | AI-powered image editing tool with object detection and 3D object replacement using TensorFlow.js and Three.js.    | React.js, TensorFlow.js, Three.js                      | [Live](https://techugoapps.com/poc_image/)    |
 
-| Project | What it does | Stack | Links |
-|---------|-------------|-------|-------|
-| **Project One** | Describe it in one punchy line — what problem does it solve? | React, Node.js, OpenAI | [Live](#) · [Repo](#) |
-| **Project Two** | Describe it in one punchy line — what does the user actually do? | React, Tailwind, Redux | [Live](#) · [Repo](#) |
-| **Project Three** | Describe it in one punchy line — what makes it interesting? | Next.js, TypeScript | [Live](#) · [Repo](#) |
-
----
 
 ### 🔨 What I'm Working On
 
