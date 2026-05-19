@@ -47,8 +47,11 @@ Currently exploring the intersection of **React + AI agents** — building tools
 
 ### 🔨 What I'm Working On
 
-- Building an **AI agent** that [describe what it does — e.g. "automates frontend code reviews using GPT-4"]
-- Exploring **[anything else you're actively building or learning]**
+* Building production-grade **Agentic AI systems** including AI voice calling platforms, autonomous interview agents, and real-time workflow orchestration using LLM APIs, Twilio, ElevenLabs, and Claude Code.
+
+* Developing **AI-powered interview and project management platforms** with real-time Jira synchronization, conversational AI workflows, and intelligent automation for engineering teams.
+
+* Exploring advanced **multi-agent architectures**, real-time voice AI, autonomous task execution, and scalable AI-first frontend systems using React, Angular, Node.js, and Python.
 
 ---
 
