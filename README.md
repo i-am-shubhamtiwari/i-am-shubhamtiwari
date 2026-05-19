@@ -39,9 +39,9 @@ Currently exploring the intersection of **React + AI agents** — building tools
 
 | Project                                     | What it does                                                                                                       | Stack                                                  | Links                                         |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | --------------------------------------------- |
-| **Agentic AI Voice Calling System**         | Production-grade AI voice calling platform with real-time conversational agents using Twilio + LLM orchestration.  | Python, Node.js, Angular, Twilio, ElevenLabs, Cartesia | [Repo](https://github.com/i-am-shubhamtiwari) |
-| **Lyra — AI Interview Platform**            | AI-powered interview platform for automated candidate screening, dynamic interview flows, and AI-based evaluation. | Angular, Node.js, Tailwind CSS, LLM APIs               | [Repo](https://github.com/i-am-shubhamtiwari) |
-| **Orion — Project Management Tool**         | Jira-integrated project management platform with real-time two-way synchronization using webhooks and REST APIs.   | React, Node.js, Jira REST API, Webhooks                | [Repo](https://github.com/i-am-shubhamtiwari) |
+| **Agentic AI Voice Calling System**         | Production-grade AI voice calling platform with real-time conversational agents using Twilio + LLM orchestration.  | Python, Node.js, Angular, Twilio, ElevenLabs, Cartesia | [Repo](https://salesdemo.xumane.com) |
+| **Lyra — AI Interview Platform**            | AI-powered interview platform for automated candidate screening, dynamic interview flows, and AI-based evaluation. | Angular, Node.js, Tailwind CSS, LLM APIs               | [Repo](https://salesdemo.xumane.com) |
+| **Orion — Project Management Tool**         | Jira-integrated project management platform with real-time two-way synchronization using webhooks and REST APIs.   | React, Node.js, Jira REST API, Webhooks                | [Repo](https://workfore.xumane.com/v1/orion) |
 | **AI Object Removal & 3D Replacement Tool** | AI-powered image editing tool with object detection and 3D object replacement using TensorFlow.js and Three.js.    | React.js, TensorFlow.js, Three.js                      | [Live](https://techugoapps.com/poc_image/)    |
 
 
