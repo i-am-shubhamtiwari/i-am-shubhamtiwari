@@ -55,14 +55,25 @@ Currently exploring the intersection of **React + AI agents** — building tools
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-am-shubhamtiwari&show_icons=true&theme=radical" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=i-am-shubhamtiwari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    height="170"
+  />
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=i-am-shubhamtiwari&theme=radical" height="170" />
+<img 
+ src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-shubhamtiwari&theme=tokyonight" 
+ height="170"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shubhamtiwari&layout=compact&theme=radical" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-shubhamtiwari&layout=compact&theme=tokyonight" 
+    height="170"
+  />
 </p>
+
 
 ---
 
