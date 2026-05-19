@@ -86,16 +86,19 @@ Currently exploring the intersection of **React + AI agents** — building tools
 
 ### 🌐 Let's Connect
 
-I'm open to **remote roles**, **freelance projects**, and **interesting collabs**. If you're building something with React or AI — let's talk.
+I'm open to **remote roles**, **freelance projects**, and **interesting collaborations** in React, AI systems, and frontend engineering.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/i-am-shubhamtiwari">
+  <a href="https://www.linkedin.com/in/shubhamtiwaree/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shubham.frontenddev@gmail.com">
+
+  <a href="mailto:tiwareeshubham@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  <a href="https://github.com/i-am-shubhamtiwari">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
